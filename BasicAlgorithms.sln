@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LongestIncreasingSubsequenc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lee algorithm(Shortest path in a Maze)", "Lee algorithm(Shortest path in a Maze)\Lee algorithm(Shortest path in a Maze).csproj", "{FC80B2B6-6E4B-4F6C-B8A5-C493E01D6C75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breadth First Search for a Graph", "Breadth First Search for a Graph\Breadth First Search for a Graph.csproj", "{1957301A-0328-4D5E-91CC-9D023E6B57EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,18 @@ Global
 		{FC80B2B6-6E4B-4F6C-B8A5-C493E01D6C75}.Release|x64.Build.0 = Release|Any CPU
 		{FC80B2B6-6E4B-4F6C-B8A5-C493E01D6C75}.Release|x86.ActiveCfg = Release|Any CPU
 		{FC80B2B6-6E4B-4F6C-B8A5-C493E01D6C75}.Release|x86.Build.0 = Release|Any CPU
+		{1957301A-0328-4D5E-91CC-9D023E6B57EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1957301A-0328-4D5E-91CC-9D023E6B57EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1957301A-0328-4D5E-91CC-9D023E6B57EC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1957301A-0328-4D5E-91CC-9D023E6B57EC}.Debug|x64.Build.0 = Debug|Any CPU
+		{1957301A-0328-4D5E-91CC-9D023E6B57EC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1957301A-0328-4D5E-91CC-9D023E6B57EC}.Debug|x86.Build.0 = Debug|Any CPU
+		{1957301A-0328-4D5E-91CC-9D023E6B57EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1957301A-0328-4D5E-91CC-9D023E6B57EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1957301A-0328-4D5E-91CC-9D023E6B57EC}.Release|x64.ActiveCfg = Release|Any CPU
+		{1957301A-0328-4D5E-91CC-9D023E6B57EC}.Release|x64.Build.0 = Release|Any CPU
+		{1957301A-0328-4D5E-91CC-9D023E6B57EC}.Release|x86.ActiveCfg = Release|Any CPU
+		{1957301A-0328-4D5E-91CC-9D023E6B57EC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

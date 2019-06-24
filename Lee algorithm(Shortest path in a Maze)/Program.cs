@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab_6_Labirint
+namespace LeeAlgorithm
 {
     class Program
     {
